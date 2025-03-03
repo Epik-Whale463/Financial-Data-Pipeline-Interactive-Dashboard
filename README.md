@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## **Dashboard Preview**
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshots/financial_dashboard.png)
 
 ## 📊 Project Overview
 
