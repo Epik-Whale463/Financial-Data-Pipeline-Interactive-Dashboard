@@ -59,8 +59,7 @@ The result? Automated financial reporting that improves audit efficiency, compli
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/financial-data-pipeline.git
-   cd financial-data-pipeline
+   git clone https://github.com/Epik-Whale463/Financial-Data-Pipeline-Interactive-Dashboard.git
    ```
 
 2. **Install Python dependencies**
