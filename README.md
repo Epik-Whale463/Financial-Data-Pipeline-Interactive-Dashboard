@@ -5,6 +5,9 @@
 ![PowerBI](https://img.shields.io/badge/Power_BI-Desktop-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+## **Dashboard Preview**
+![Dashboard Screenshot](screenshots/dashboard.png)
+
 ## 📊 Project Overview
 
 This project creates an end-to-end financial data solution that:
